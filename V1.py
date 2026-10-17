@@ -1,4 +1,4 @@
-#Gustavo S. Ferreira - Ciencias da computação 3 - Fei - semestre
+#Gustavo S. Ferreira - Ciencias da computação - Fei - Terceiro semestre
 #começo do projeto: 13/10/2026
 import os #biblioteca importada/ limpar terminal/manipular arquivos
 def p(texto):#função para subistituir print no código
